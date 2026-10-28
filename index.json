@@ -1,0 +1,11 @@
+{
+  "org": "PennyLaneAI",
+  "repo": "pennylane-qulacs",
+  "versions": [
+    {
+      "commit": "654594bd3fe47047980dd5c276641aec58753bf8",
+      "tag": "",
+      "parsed_at": "2026-10-28T18:41:40.126950+00:00"
+    }
+  ]
+}
